@@ -1,0 +1,7 @@
+name: selfmade-diffusion
+channels:
+  - defaults
+dependencies:
+  - python
+  - pytorch
+prefix: /opt/miniconda3/envs/selfmade-diffusion
