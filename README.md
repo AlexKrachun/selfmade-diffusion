@@ -17,7 +17,7 @@ to run you have to
 - add image into /images folder
 
 
-
+you can run code via [demo.ipynb](modules/demo.ipynb)
 
 
 
