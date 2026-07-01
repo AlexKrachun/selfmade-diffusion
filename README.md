@@ -1,4 +1,6 @@
 # selfmade-diffusion
+From scratch realisation of stable diffusion 1.5
+
 originally based on [video](https://www.youtube.com/watch?v=ZBKpAp_6TGI) <br> <br>
 
 setup
@@ -10,10 +12,9 @@ conda activate selfmade-diffusion
 
 
 to run you have to
-- add [merges.txt](link) into /data folder
-- add [v1-5-pruned-emaonly.ckpt](link) into /data folder
-- add [vocab.json](link) into /data folder
-- add [image.png](link) into /images folder
+- Download vocab.json and merges.txt from [link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer) into /data folder
+- Download v1-5-pruned-emaonly.ckpt from [link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main ) into /data folder
+- add image into /images folder
 
 
 
